@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Wichita Falls, Texas with a population of over 102k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Wichita Falls, Texas, US",
+  "export_job_id": "d01a7a53-37fb-462f-8bcc-40c7c61e2477",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 289335,
+  "location_name": "Wichita Falls",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-wichita-falls-texas-us-sample-289335",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/289335/beamstation_289335_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 17,
+  "sample_sha256": "91e65384db6be66263ce16dbab63b88ad182dac59a9644584ad67a048fff0486",
+  "sample_size_bytes": 80956,
+  "total_records": 173,
+  "updated_at": "2026-04-07T13:41:13.103846+00:00"
+}
