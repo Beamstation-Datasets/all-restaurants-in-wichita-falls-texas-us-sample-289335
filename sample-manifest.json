@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d01a7a53-37fb-462f-8bcc-40c7c61e2477",
+  "id_short": 289335,
+  "published_at": "2026-04-11T07:21:04Z",
+  "repo_name": "all-restaurants-in-wichita-falls-texas-us-sample-289335",
+  "sample_asset_name": "beamstation_289335_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/289335/beamstation_289335_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 17,
+  "sample_sha256": "91e65384db6be66263ce16dbab63b88ad182dac59a9644584ad67a048fff0486",
+  "sample_size_bytes": 80956,
+  "total_records": 173
+}
