@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 173 records |
 | Free sample size | 17 records (9.83%) |
-| Last export | 2026-04-07T13:41:13.103846+00:00 |
+| Last export | 2026-04-14T20:49:59.495102+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wichita-falls-texas-us-sample-289335/releases/download/sample-latest/beamstation_289335_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
