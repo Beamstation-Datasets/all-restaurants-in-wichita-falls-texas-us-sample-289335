@@ -1,6 +1,6 @@
 # All Restaurants in Wichita Falls, Texas, US
 
-> Free BeamStation sample export with 17 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `289335` |
 | Location | Wichita Falls |
 | Category | Restaurants |
-| Full dataset size | 173 records |
-| Free sample size | 17 records (9.83%) |
-| Last export | 2026-04-14T20:49:59.495102+00:00 |
+| Full dataset size | 155 records |
+| Free sample size | 15 records (9.68%) |
+| Last export | 2026-04-21T23:10:02.576666+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wichita-falls-texas-us-sample-289335/releases/download/sample-latest/beamstation_289335_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
